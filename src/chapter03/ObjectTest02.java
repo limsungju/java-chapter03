@@ -10,14 +10,17 @@ public class ObjectTest02 {
 		// == : 두 객체의 동일성
 		System.out.println(p1 == p2);
 		System.out.println(p2 == p3);
+		System.out.println();
 		
 		// equals : 두 객체의 동질성(내용비교)
 		System.out.println(p1.equals(p2));
 		System.out.println(p2.equals(p3));
+		System.out.println();
 		
 		// String
 		String s1 = new String("ABC");
 		String s2 = new String("ABC");
+		System.out.println();
 		
 		System.out.println(s1 == s2);
 		System.out.println(s1.equals(s2));

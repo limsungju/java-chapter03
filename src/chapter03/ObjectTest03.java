@@ -11,7 +11,7 @@ public class ObjectTest03 {
 		set.add(new Point(20,10));
 		set.add(new Point(10,20));
 		
-			System.out.println(set);
+		System.out.println(set);
 	}
 	
 }

@@ -10,7 +10,7 @@ public class WrapperClassTest02 {
 		String s2 = String.valueOf(i);
 		System.out.println(i);
 		System.out.println(s2);
-		
+		     
 		int a = Character.getNumericValue('A');
 		System.out.println(a);
 		
