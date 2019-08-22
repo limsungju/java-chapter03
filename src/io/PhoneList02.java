@@ -17,7 +17,7 @@ public class PhoneList02 {
 				System.out.println("File Not Found");
 				return;
 			}
-
+			
 			System.out.println("=========파일정보==========");
 			System.out.println(file.getAbsolutePath());
 			System.out.println(file.length() + "bytes");
